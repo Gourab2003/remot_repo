@@ -1,1 +1,1 @@
-this is first story in the git version controll
+this is first story in the git version controll. updating the first story.
