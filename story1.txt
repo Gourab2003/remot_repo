@@ -1,1 +1,2 @@
 this is first story in the git version controll. updating the first story.
+there are some new features added in this update, will be mearged to the exixting story
