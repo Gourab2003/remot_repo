@@ -1,1 +1,2 @@
 this is the 2nd story of my git version controll
+in the story 2 we add some new drama and also introduce the a new brunch called newStory
